@@ -258,7 +258,6 @@ The interactive Power BI dashboard provides:
 </p>
 
 
-
 &nbsp;	
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
