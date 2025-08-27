@@ -246,29 +246,16 @@ Outliers in high-value purchases
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-
-
 The interactive Power BI dashboard provides:
 
+- Revenue and Quantity trends  
+- Product/Brand-wise contribution  
+- Regional breakdown  
+- KPIs (Total Revenue, Total Quantity Sold, Avg. Selling Price)  
 
-
-Revenue and Quantity trends
-
-
-
-Product/Brand-wise contribution
-
-
-
-Regional breakdown
-
-
-
-KPIs (Total Revenue, Total Quantity Sold, Avg. Selling Price)
-
-
-
-Cover	Dashboard
+<p align="center">
+  <img src="assets/dashboard.png" alt="Mobile Sales Dashboard" width="800">
+</p>
 
 
 
