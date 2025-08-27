@@ -254,8 +254,10 @@ The interactive Power BI dashboard provides:
 - KPIs (Total Revenue, Total Quantity Sold, Avg. Selling Price)  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tufail-shaikhws/mobile-sales-dashboard/main/assets/dashboard.png" alt="Mobile Sales Dashboard" width="800">
+  <img src="https://github.com/tufail-shaikhws/powerbi-mobile-sales-analysis/blob/main/assets/Dashboard.png?raw=true" 
+       alt="Mobile Sales Dashboard" width="800">
 </p>
+
 
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
